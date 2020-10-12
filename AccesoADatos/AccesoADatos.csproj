@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{48DE73D9-7723-486E-B96C-844B8B2D9D48}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>AccesoADatos</RootNamespace>
+    <AssemblyName>AccesoADatos</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BaseUltimaDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BaseUltimaDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Contratos\IArticuloRepositorio.cs" />
+    <Compile Include="Contratos\IClienteRepositorio.cs" />
+    <Compile Include="Contratos\ICompraDetalleRepositorio.cs" />
+    <Compile Include="Contratos\IComprasRepositorio.cs" />
+    <Compile Include="Contratos\IDomicilioRepositorio.cs" />
+    <Compile Include="Contratos\IFacturaDetalleRepositorio.cs" />
+    <Compile Include="Contratos\IFacturaRepositorio.cs" />
+    <Compile Include="Contratos\IFormaDePagoRepositorio.cs" />
+    <Compile Include="Contratos\IGrupoRepositorio.cs" />
+    <Compile Include="Contratos\ILocalidadRepositorio.cs" />
+    <Compile Include="Contratos\IMarcaRepositorio.cs" />
+    <Compile Include="Contratos\IIvaRepositorio.cs" />
+    <Compile Include="Contratos\IProveedorRepositorio.cs" />
+    <Compile Include="Contratos\IProvinciaRepositorio.cs" />
+    <Compile Include="Contratos\IRepositorioGenerico.cs" />
+    <Compile Include="Contratos\IResponsabilidadRepositorio.cs" />
+    <Compile Include="Contratos\ITipoFacturaRepositorio.cs" />
+    <Compile Include="Contratos\IUsuarioRepositorio.cs" />
+    <Compile Include="Entidades\Articulo.cs" />
+    <Compile Include="Entidades\Cliente.cs" />
+    <Compile Include="Entidades\CompraDetalle.cs" />
+    <Compile Include="Entidades\Compras.cs" />
+    <Compile Include="Entidades\Domicilio.cs" />
+    <Compile Include="Entidades\Factura.cs" />
+    <Compile Include="Entidades\FacturaDetalle.cs" />
+    <Compile Include="Entidades\FormaDePago.cs" />
+    <Compile Include="Entidades\Grupo.cs" />
+    <Compile Include="Entidades\Iva.cs" />
+    <Compile Include="Entidades\Localidad.cs" />
+    <Compile Include="Entidades\Marca.cs" />
+    <Compile Include="Entidades\Proveedor.cs" />
+    <Compile Include="Entidades\Provincia.cs" />
+    <Compile Include="Entidades\Responsabilidad.cs" />
+    <Compile Include="Entidades\TipoFactura.cs" />
+    <Compile Include="Entidades\Usuario.cs" />
+    <Compile Include="PracticaDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PracticaDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Repositorios\ArticuloRepositorio.cs" />
+    <Compile Include="Repositorios\ClienteRepositorio.cs" />
+    <Compile Include="Repositorios\CompraDetalleRepositorio.cs" />
+    <Compile Include="Repositorios\ComprasRepositorio.cs" />
+    <Compile Include="Repositorios\DomicilioRepositorio.cs" />
+    <Compile Include="Repositorios\FacturaDetalleRepositorio.cs" />
+    <Compile Include="Repositorios\FacturaRepositorio.cs" />
+    <Compile Include="Repositorios\FormaDePagoRepositorio.cs" />
+    <Compile Include="Repositorios\GrupoRepositorio.cs" />
+    <Compile Include="Repositorios\IvaRepositorio.cs" />
+    <Compile Include="Repositorios\LocalidadRepositorio.cs" />
+    <Compile Include="Repositorios\MarcaRepositorio.cs" />
+    <Compile Include="Repositorios\ProveedorRepositorio.cs" />
+    <Compile Include="Repositorios\ProvinciaRepositorio.cs" />
+    <Compile Include="Repositorios\Repositorio.cs" />
+    <Compile Include="Repositorios\RepositorioMaestro.cs" />
+    <Compile Include="Repositorios\ResponsabilidadRepositorio.cs" />
+    <Compile Include="Repositorios\TipoFacturaRepositorio.cs" />
+    <Compile Include="Repositorios\UsuarioRepositorio.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CapaComun\1CapaComun.csproj">
+      <Project>{96e9d7c3-2300-442d-9272-34493f6f3907}</Project>
+      <Name>1CapaComun</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="BaseUltimaDataSet.xsc">
+      <DependentUpon>BaseUltimaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="BaseUltimaDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>BaseUltimaDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="BaseUltimaDataSet.xss">
+      <DependentUpon>BaseUltimaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="PracticaDataSet.xsc">
+      <DependentUpon>PracticaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="PracticaDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>PracticaDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="PracticaDataSet.xss">
+      <DependentUpon>PracticaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

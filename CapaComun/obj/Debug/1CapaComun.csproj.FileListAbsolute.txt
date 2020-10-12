@@ -1,0 +1,24 @@
+S:\VisualStudio\Repositorio\Chenterprise\CapaComun\bin\Debug\CapaComun.dll
+S:\VisualStudio\Repositorio\Chenterprise\CapaComun\bin\Debug\CapaComun.pdb
+S:\VisualStudio\Repositorio\Chenterprise\CapaComun\obj\Debug\1CapaComun.csprojAssemblyReference.cache
+S:\VisualStudio\Repositorio\Chenterprise\CapaComun\obj\Debug\1CapaComun.csproj.CoreCompileInputs.cache
+S:\VisualStudio\Repositorio\Chenterprise\CapaComun\obj\Debug\CapaComun.dll
+S:\VisualStudio\Repositorio\Chenterprise\CapaComun\obj\Debug\CapaComun.pdb
+C:\Users\Sebax\Documents\Practicas Profesionales\Rep_Chechi\CapaComun\bin\Debug\CapaComun.dll
+C:\Users\Sebax\Documents\Practicas Profesionales\Rep_Chechi\CapaComun\bin\Debug\CapaComun.pdb
+C:\Users\Sebax\Documents\Practicas Profesionales\Rep_Chechi\CapaComun\obj\Debug\1CapaComun.csprojAssemblyReference.cache
+C:\Users\Sebax\Documents\Practicas Profesionales\Rep_Chechi\CapaComun\obj\Debug\1CapaComun.csproj.CoreCompileInputs.cache
+C:\Users\Sebax\Documents\Practicas Profesionales\Rep_Chechi\CapaComun\obj\Debug\CapaComun.dll
+C:\Users\Sebax\Documents\Practicas Profesionales\Rep_Chechi\CapaComun\obj\Debug\CapaComun.pdb
+D:\chine\Proyectos\Repositorio\Chenterprise\CapaComun\bin\Debug\CapaComun.dll
+D:\chine\Proyectos\Repositorio\Chenterprise\CapaComun\bin\Debug\CapaComun.pdb
+D:\chine\Proyectos\Repositorio\Chenterprise\CapaComun\obj\Debug\1CapaComun.csprojAssemblyReference.cache
+D:\chine\Proyectos\Repositorio\Chenterprise\CapaComun\obj\Debug\1CapaComun.csproj.CoreCompileInputs.cache
+D:\chine\Proyectos\Repositorio\Chenterprise\CapaComun\obj\Debug\CapaComun.dll
+D:\chine\Proyectos\Repositorio\Chenterprise\CapaComun\obj\Debug\CapaComun.pdb
+C:\Users\sebas\OneDrive\Documentos\Practicas Profesionales\Rep_Chechi\CapaComun\bin\Debug\CapaComun.dll
+C:\Users\sebas\OneDrive\Documentos\Practicas Profesionales\Rep_Chechi\CapaComun\bin\Debug\CapaComun.pdb
+C:\Users\sebas\OneDrive\Documentos\Practicas Profesionales\Rep_Chechi\CapaComun\obj\Debug\1CapaComun.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Documentos\Practicas Profesionales\Rep_Chechi\CapaComun\obj\Debug\CapaComun.dll
+C:\Users\sebas\OneDrive\Documentos\Practicas Profesionales\Rep_Chechi\CapaComun\obj\Debug\CapaComun.pdb
+C:\Users\sebas\OneDrive\Documentos\Practicas Profesionales\Rep_Chechi\CapaComun\obj\Debug\1CapaComun.csprojAssemblyReference.cache

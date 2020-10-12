@@ -1,0 +1,68 @@
+S:\VisualStudio\FormulariosBase\AccesoADatos\bin\Debug\AccesoADatos.dll
+S:\VisualStudio\FormulariosBase\AccesoADatos\bin\Debug\AccesoADatos.pdb
+S:\VisualStudio\FormulariosBase\AccesoADatos\obj\Debug\AccesoADatos.csprojAssemblyReference.cache
+S:\VisualStudio\FormulariosBase\AccesoADatos\obj\Debug\AccesoADatos.csproj.CoreCompileInputs.cache
+S:\VisualStudio\FormulariosBase\AccesoADatos\obj\Debug\AccesoADatos.dll
+S:\VisualStudio\FormulariosBase\AccesoADatos\obj\Debug\AccesoADatos.pdb
+C:\Users\Sebax\Documents\UTN\Segundo año\Segundo Semestre\Pasantias_Proyecto Final\FormulariosBase\FormulariosBase\AccesoADatos\bin\Debug\AccesoADatos.dll
+C:\Users\Sebax\Documents\UTN\Segundo año\Segundo Semestre\Pasantias_Proyecto Final\FormulariosBase\FormulariosBase\AccesoADatos\bin\Debug\AccesoADatos.pdb
+C:\Users\Sebax\Documents\UTN\Segundo año\Segundo Semestre\Pasantias_Proyecto Final\FormulariosBase\FormulariosBase\AccesoADatos\obj\Debug\AccesoADatos.csprojAssemblyReference.cache
+C:\Users\Sebax\Documents\UTN\Segundo año\Segundo Semestre\Pasantias_Proyecto Final\FormulariosBase\FormulariosBase\AccesoADatos\obj\Debug\AccesoADatos.csproj.CoreCompileInputs.cache
+C:\Users\Sebax\Documents\UTN\Segundo año\Segundo Semestre\Pasantias_Proyecto Final\FormulariosBase\FormulariosBase\AccesoADatos\obj\Debug\AccesoADatos.dll
+C:\Users\Sebax\Documents\UTN\Segundo año\Segundo Semestre\Pasantias_Proyecto Final\FormulariosBase\FormulariosBase\AccesoADatos\obj\Debug\AccesoADatos.pdb
+S:\VisualStudio\Repositorio\FormulariosBase\AccesoADatos\bin\Debug\AccesoADatos.dll
+S:\VisualStudio\Repositorio\FormulariosBase\AccesoADatos\bin\Debug\AccesoADatos.pdb
+S:\VisualStudio\Repositorio\FormulariosBase\AccesoADatos\obj\Debug\AccesoADatos.csprojAssemblyReference.cache
+S:\VisualStudio\Repositorio\FormulariosBase\AccesoADatos\obj\Debug\AccesoADatos.csproj.CoreCompileInputs.cache
+S:\VisualStudio\Repositorio\FormulariosBase\AccesoADatos\obj\Debug\AccesoADatos.dll
+S:\VisualStudio\Repositorio\FormulariosBase\AccesoADatos\obj\Debug\AccesoADatos.pdb
+S:\VisualStudio\Repositorio\Chenterprise\AccesoADatos\bin\Debug\AccesoADatos.dll
+S:\VisualStudio\Repositorio\Chenterprise\AccesoADatos\bin\Debug\AccesoADatos.pdb
+S:\VisualStudio\Repositorio\Chenterprise\AccesoADatos\obj\Debug\AccesoADatos.csprojAssemblyReference.cache
+S:\VisualStudio\Repositorio\Chenterprise\AccesoADatos\obj\Debug\AccesoADatos.csproj.CoreCompileInputs.cache
+S:\VisualStudio\Repositorio\Chenterprise\AccesoADatos\obj\Debug\AccesoADatos.dll
+S:\VisualStudio\Repositorio\Chenterprise\AccesoADatos\obj\Debug\AccesoADatos.pdb
+S:\VisualStudio\Repositorio\Chenterprise\AccesoADatos\bin\Debug\CapaComun.dll
+S:\VisualStudio\Repositorio\Chenterprise\AccesoADatos\bin\Debug\CapaComun.pdb
+S:\VisualStudio\Repositorio\Chenterprise\AccesoADatos\obj\Debug\AccesoADatos.csproj.CopyComplete
+C:\Users\Sebax\Documents\Practicas Profesionales\Rep_Chechi\AccesoADatos\bin\Debug\AccesoADatos.dll
+C:\Users\Sebax\Documents\Practicas Profesionales\Rep_Chechi\AccesoADatos\bin\Debug\AccesoADatos.pdb
+C:\Users\Sebax\Documents\Practicas Profesionales\Rep_Chechi\AccesoADatos\bin\Debug\CapaComun.dll
+C:\Users\Sebax\Documents\Practicas Profesionales\Rep_Chechi\AccesoADatos\bin\Debug\CapaComun.pdb
+C:\Users\Sebax\Documents\Practicas Profesionales\Rep_Chechi\AccesoADatos\obj\Debug\AccesoADatos.csprojAssemblyReference.cache
+C:\Users\Sebax\Documents\Practicas Profesionales\Rep_Chechi\AccesoADatos\obj\Debug\AccesoADatos.csproj.CoreCompileInputs.cache
+C:\Users\Sebax\Documents\Practicas Profesionales\Rep_Chechi\AccesoADatos\obj\Debug\AccesoADatos.csproj.CopyComplete
+C:\Users\Sebax\Documents\Practicas Profesionales\Rep_Chechi\AccesoADatos\obj\Debug\AccesoADatos.dll
+C:\Users\Sebax\Documents\Practicas Profesionales\Rep_Chechi\AccesoADatos\obj\Debug\AccesoADatos.pdb
+S:\VisualStudio\Repositorio\Chenterprise\AccesoADatos\bin\Debug\AccesoADatos.dll.config
+C:\Users\Sebax\Documents\Practicas Profesionales\Rep_Chechi\AccesoADatos\bin\Debug\AccesoADatos.dll.config
+D:\chine\Proyectos\Repositorio\Chenterprise\AccesoADatos\bin\Debug\AccesoADatos.dll.config
+D:\chine\Proyectos\Repositorio\Chenterprise\AccesoADatos\bin\Debug\AccesoADatos.dll
+D:\chine\Proyectos\Repositorio\Chenterprise\AccesoADatos\bin\Debug\AccesoADatos.pdb
+D:\chine\Proyectos\Repositorio\Chenterprise\AccesoADatos\bin\Debug\CapaComun.dll
+D:\chine\Proyectos\Repositorio\Chenterprise\AccesoADatos\bin\Debug\CapaComun.pdb
+D:\chine\Proyectos\Repositorio\Chenterprise\AccesoADatos\obj\Debug\AccesoADatos.csprojAssemblyReference.cache
+D:\chine\Proyectos\Repositorio\Chenterprise\AccesoADatos\obj\Debug\AccesoADatos.csproj.CoreCompileInputs.cache
+D:\chine\Proyectos\Repositorio\Chenterprise\AccesoADatos\obj\Debug\AccesoADatos.csproj.CopyComplete
+D:\chine\Proyectos\Repositorio\Chenterprise\AccesoADatos\obj\Debug\AccesoADatos.dll
+D:\chine\Proyectos\Repositorio\Chenterprise\AccesoADatos\obj\Debug\AccesoADatos.pdb
+C:\Users\sebas\OneDrive\Documentos\Back up - Seba\Rep_Chechi\AccesoADatos\bin\Debug\AccesoADatos.dll.config
+C:\Users\sebas\OneDrive\Documentos\Back up - Seba\Rep_Chechi\AccesoADatos\bin\Debug\AccesoADatos.dll
+C:\Users\sebas\OneDrive\Documentos\Back up - Seba\Rep_Chechi\AccesoADatos\bin\Debug\AccesoADatos.pdb
+C:\Users\sebas\OneDrive\Documentos\Back up - Seba\Rep_Chechi\AccesoADatos\bin\Debug\CapaComun.dll
+C:\Users\sebas\OneDrive\Documentos\Back up - Seba\Rep_Chechi\AccesoADatos\bin\Debug\CapaComun.pdb
+C:\Users\sebas\OneDrive\Documentos\Back up - Seba\Rep_Chechi\AccesoADatos\obj\Debug\AccesoADatos.csprojAssemblyReference.cache
+C:\Users\sebas\OneDrive\Documentos\Back up - Seba\Rep_Chechi\AccesoADatos\obj\Debug\AccesoADatos.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Documentos\Back up - Seba\Rep_Chechi\AccesoADatos\obj\Debug\AccesoADatos.csproj.CopyComplete
+C:\Users\sebas\OneDrive\Documentos\Back up - Seba\Rep_Chechi\AccesoADatos\obj\Debug\AccesoADatos.dll
+C:\Users\sebas\OneDrive\Documentos\Back up - Seba\Rep_Chechi\AccesoADatos\obj\Debug\AccesoADatos.pdb
+C:\Users\sebas\OneDrive\Documentos\Practicas Profesionales\Rep_Chechi\AccesoADatos\bin\Debug\AccesoADatos.dll.config
+C:\Users\sebas\OneDrive\Documentos\Practicas Profesionales\Rep_Chechi\AccesoADatos\bin\Debug\AccesoADatos.dll
+C:\Users\sebas\OneDrive\Documentos\Practicas Profesionales\Rep_Chechi\AccesoADatos\bin\Debug\AccesoADatos.pdb
+C:\Users\sebas\OneDrive\Documentos\Practicas Profesionales\Rep_Chechi\AccesoADatos\bin\Debug\CapaComun.dll
+C:\Users\sebas\OneDrive\Documentos\Practicas Profesionales\Rep_Chechi\AccesoADatos\bin\Debug\CapaComun.pdb
+C:\Users\sebas\OneDrive\Documentos\Practicas Profesionales\Rep_Chechi\AccesoADatos\obj\Debug\AccesoADatos.csprojAssemblyReference.cache
+C:\Users\sebas\OneDrive\Documentos\Practicas Profesionales\Rep_Chechi\AccesoADatos\obj\Debug\AccesoADatos.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Documentos\Practicas Profesionales\Rep_Chechi\AccesoADatos\obj\Debug\AccesoADatos.csproj.CopyComplete
+C:\Users\sebas\OneDrive\Documentos\Practicas Profesionales\Rep_Chechi\AccesoADatos\obj\Debug\AccesoADatos.dll
+C:\Users\sebas\OneDrive\Documentos\Practicas Profesionales\Rep_Chechi\AccesoADatos\obj\Debug\AccesoADatos.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "AbuJ3VcHa66ESZU8NFPtdzPpB1LMRmXwmc8xp1t1TxxnhvCbQXPAdRRQoqun4bRIFYys7Yod9DDEqKX2VYXbrg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sebas\\OneDrive\\Documentos\\Practicas Profesionales\\Rep_Chechi\\guidProyecto\\guidProyecto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sebas\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\sebas\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

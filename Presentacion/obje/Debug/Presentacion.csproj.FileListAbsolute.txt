@@ -1,0 +1,272 @@
+S:\VisualStudio\FormulariosBase\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+S:\VisualStudio\FormulariosBase\Presentacion\obj\Debug\Presentacion.Forms.FormPrincipal.resources
+S:\VisualStudio\FormulariosBase\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+S:\VisualStudio\FormulariosBase\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+S:\VisualStudio\FormulariosBase\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+S:\VisualStudio\FormulariosBase\Presentacion\bin\Debug\Presentacion.exe.config
+S:\VisualStudio\FormulariosBase\Presentacion\bin\Debug\Presentacion.exe
+S:\VisualStudio\FormulariosBase\Presentacion\bin\Debug\Presentacion.pdb
+S:\VisualStudio\FormulariosBase\Presentacion\obj\Debug\Presentacion.exe
+S:\VisualStudio\FormulariosBase\Presentacion\obj\Debug\Presentacion.pdb
+S:\VisualStudio\FormulariosBase\Presentacion\obj\Debug\Presentacion.Forms.Clientes.resources
+S:\VisualStudio\FormulariosBase\Presentacion\bin\Debug\Dominio.dll
+S:\VisualStudio\FormulariosBase\Presentacion\bin\Debug\AccesoADatos.dll
+S:\VisualStudio\FormulariosBase\Presentacion\bin\Debug\Dominio.pdb
+S:\VisualStudio\FormulariosBase\Presentacion\bin\Debug\AccesoADatos.pdb
+S:\VisualStudio\FormulariosBase\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+S:\VisualStudio\FormulariosBase\Presentacion\obj\Debug\Presentacion.Forms.Articulos.resources
+S:\VisualStudio\FormulariosBase\Presentacion\obj\Debug\Presentacion.Forms.AddIva.resources
+S:\VisualStudio\FormulariosBase\Presentacion\obj\Debug\Presentacion.Forms.AddArticulo.resources
+S:\VisualStudio\FormulariosBase\Presentacion\obj\Debug\Presentacion.Forms.AddGrupo.resources
+S:\VisualStudio\FormulariosBase\Presentacion\obj\Debug\Presentacion.Forms.AddMarca.resources
+S:\VisualStudio\FormulariosBase\Presentacion\obj\Debug\Presentacion.Forms.AddProveedor.resources
+C:\Users\Sebax\Documents\UTN\Segundo año\Segundo Semestre\Pasantias - Proyecto Final\FormulariosBase\FormulariosBase\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Sebax\Documents\UTN\Segundo año\Segundo Semestre\Pasantias - Proyecto Final\FormulariosBase\FormulariosBase\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Sebax\Documents\UTN\Segundo año\Segundo Semestre\Pasantias - Proyecto Final\FormulariosBase\FormulariosBase\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Sebax\Documents\UTN\Segundo año\Segundo Semestre\Pasantias - Proyecto Final\FormulariosBase\FormulariosBase\Presentacion\bin\Debug\Dominio.dll
+C:\Users\Sebax\Documents\UTN\Segundo año\Segundo Semestre\Pasantias - Proyecto Final\FormulariosBase\FormulariosBase\Presentacion\bin\Debug\AccesoADatos.dll
+C:\Users\Sebax\Documents\UTN\Segundo año\Segundo Semestre\Pasantias - Proyecto Final\FormulariosBase\FormulariosBase\Presentacion\bin\Debug\Dominio.pdb
+C:\Users\Sebax\Documents\UTN\Segundo año\Segundo Semestre\Pasantias - Proyecto Final\FormulariosBase\FormulariosBase\Presentacion\bin\Debug\AccesoADatos.pdb
+C:\Users\Sebax\Documents\UTN\Segundo año\Segundo Semestre\Pasantias - Proyecto Final\FormulariosBase\FormulariosBase\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\Sebax\Documents\UTN\Segundo año\Segundo Semestre\Pasantias - Proyecto Final\FormulariosBase\FormulariosBase\Presentacion\obj\Debug\Presentacion.Forms.AddIva.resources
+C:\Users\Sebax\Documents\UTN\Segundo año\Segundo Semestre\Pasantias - Proyecto Final\FormulariosBase\FormulariosBase\Presentacion\obj\Debug\Presentacion.Forms.AddProveedor.resources
+C:\Users\Sebax\Documents\UTN\Segundo año\Segundo Semestre\Pasantias - Proyecto Final\FormulariosBase\FormulariosBase\Presentacion\obj\Debug\Presentacion.Forms.Clientes.resources
+C:\Users\Sebax\Documents\UTN\Segundo año\Segundo Semestre\Pasantias - Proyecto Final\FormulariosBase\FormulariosBase\Presentacion\obj\Debug\Presentacion.Forms.AddArticulo.resources
+C:\Users\Sebax\Documents\UTN\Segundo año\Segundo Semestre\Pasantias - Proyecto Final\FormulariosBase\FormulariosBase\Presentacion\obj\Debug\Presentacion.Forms.AddGrupo.resources
+C:\Users\Sebax\Documents\UTN\Segundo año\Segundo Semestre\Pasantias - Proyecto Final\FormulariosBase\FormulariosBase\Presentacion\obj\Debug\Presentacion.Forms.AddMarca.resources
+C:\Users\Sebax\Documents\UTN\Segundo año\Segundo Semestre\Pasantias - Proyecto Final\FormulariosBase\FormulariosBase\Presentacion\obj\Debug\Presentacion.Forms.FormPrincipal.resources
+C:\Users\Sebax\Documents\UTN\Segundo año\Segundo Semestre\Pasantias - Proyecto Final\FormulariosBase\FormulariosBase\Presentacion\obj\Debug\Presentacion.Forms.Articulos.resources
+C:\Users\Sebax\Documents\UTN\Segundo año\Segundo Semestre\Pasantias - Proyecto Final\FormulariosBase\FormulariosBase\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Sebax\Documents\UTN\Segundo año\Segundo Semestre\Pasantias - Proyecto Final\FormulariosBase\FormulariosBase\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Sebax\Documents\UTN\Segundo año\Segundo Semestre\Pasantias - Proyecto Final\FormulariosBase\FormulariosBase\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Sebax\Documents\UTN\Segundo año\Segundo Semestre\Pasantias - Proyecto Final\FormulariosBase\FormulariosBase\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Sebax\Documents\UTN\Segundo año\Segundo Semestre\Pasantias - Proyecto Final\FormulariosBase\FormulariosBase\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Sebax\Documents\UTN\Segundo año\Segundo Semestre\Pasantias - Proyecto Final\FormulariosBase\FormulariosBase\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Sebax\Documents\UTN\Segundo año\Segundo Semestre\Pasantias_Proyecto Final\FormulariosBase\FormulariosBase\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\Sebax\Documents\UTN\Segundo año\Segundo Semestre\Pasantias_Proyecto Final\FormulariosBase\FormulariosBase\Presentacion\obj\Debug\Presentacion.Forms.AddIva.resources
+C:\Users\Sebax\Documents\UTN\Segundo año\Segundo Semestre\Pasantias_Proyecto Final\FormulariosBase\FormulariosBase\Presentacion\obj\Debug\Presentacion.Forms.AddProveedor.resources
+C:\Users\Sebax\Documents\UTN\Segundo año\Segundo Semestre\Pasantias_Proyecto Final\FormulariosBase\FormulariosBase\Presentacion\obj\Debug\Presentacion.Forms.Clientes.resources
+C:\Users\Sebax\Documents\UTN\Segundo año\Segundo Semestre\Pasantias_Proyecto Final\FormulariosBase\FormulariosBase\Presentacion\obj\Debug\Presentacion.Forms.AddArticulo.resources
+C:\Users\Sebax\Documents\UTN\Segundo año\Segundo Semestre\Pasantias_Proyecto Final\FormulariosBase\FormulariosBase\Presentacion\obj\Debug\Presentacion.Forms.AddGrupo.resources
+C:\Users\Sebax\Documents\UTN\Segundo año\Segundo Semestre\Pasantias_Proyecto Final\FormulariosBase\FormulariosBase\Presentacion\obj\Debug\Presentacion.Forms.AddMarca.resources
+C:\Users\Sebax\Documents\UTN\Segundo año\Segundo Semestre\Pasantias_Proyecto Final\FormulariosBase\FormulariosBase\Presentacion\obj\Debug\Presentacion.Forms.FormPrincipal.resources
+C:\Users\Sebax\Documents\UTN\Segundo año\Segundo Semestre\Pasantias_Proyecto Final\FormulariosBase\FormulariosBase\Presentacion\obj\Debug\Presentacion.Forms.Articulos.resources
+C:\Users\Sebax\Documents\UTN\Segundo año\Segundo Semestre\Pasantias_Proyecto Final\FormulariosBase\FormulariosBase\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Sebax\Documents\UTN\Segundo año\Segundo Semestre\Pasantias_Proyecto Final\FormulariosBase\FormulariosBase\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Sebax\Documents\UTN\Segundo año\Segundo Semestre\Pasantias_Proyecto Final\FormulariosBase\FormulariosBase\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Sebax\Documents\UTN\Segundo año\Segundo Semestre\Pasantias_Proyecto Final\FormulariosBase\FormulariosBase\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Sebax\Documents\UTN\Segundo año\Segundo Semestre\Pasantias_Proyecto Final\FormulariosBase\FormulariosBase\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Sebax\Documents\UTN\Segundo año\Segundo Semestre\Pasantias_Proyecto Final\FormulariosBase\FormulariosBase\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Sebax\Documents\UTN\Segundo año\Segundo Semestre\Pasantias_Proyecto Final\FormulariosBase\FormulariosBase\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Sebax\Documents\UTN\Segundo año\Segundo Semestre\Pasantias_Proyecto Final\FormulariosBase\FormulariosBase\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Sebax\Documents\UTN\Segundo año\Segundo Semestre\Pasantias_Proyecto Final\FormulariosBase\FormulariosBase\Presentacion\bin\Debug\Dominio.dll
+C:\Users\Sebax\Documents\UTN\Segundo año\Segundo Semestre\Pasantias_Proyecto Final\FormulariosBase\FormulariosBase\Presentacion\bin\Debug\AccesoADatos.dll
+C:\Users\Sebax\Documents\UTN\Segundo año\Segundo Semestre\Pasantias_Proyecto Final\FormulariosBase\FormulariosBase\Presentacion\bin\Debug\Dominio.pdb
+C:\Users\Sebax\Documents\UTN\Segundo año\Segundo Semestre\Pasantias_Proyecto Final\FormulariosBase\FormulariosBase\Presentacion\bin\Debug\AccesoADatos.pdb
+C:\Users\Sebax\Documents\UTN\Segundo año\Segundo Semestre\Pasantias_Proyecto Final\FormulariosBase\FormulariosBase\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+S:\VisualStudio\Repositorio\FormulariosBase\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+S:\VisualStudio\Repositorio\FormulariosBase\Presentacion\obj\Debug\Presentacion.Forms.AddIva.resources
+S:\VisualStudio\Repositorio\FormulariosBase\Presentacion\obj\Debug\Presentacion.Forms.AddProveedor.resources
+S:\VisualStudio\Repositorio\FormulariosBase\Presentacion\obj\Debug\Presentacion.Forms.Clientes.resources
+S:\VisualStudio\Repositorio\FormulariosBase\Presentacion\obj\Debug\Presentacion.Forms.AddArticulo.resources
+S:\VisualStudio\Repositorio\FormulariosBase\Presentacion\obj\Debug\Presentacion.Forms.AddGrupo.resources
+S:\VisualStudio\Repositorio\FormulariosBase\Presentacion\obj\Debug\Presentacion.Forms.AddMarca.resources
+S:\VisualStudio\Repositorio\FormulariosBase\Presentacion\obj\Debug\Presentacion.Forms.FormPrincipal.resources
+S:\VisualStudio\Repositorio\FormulariosBase\Presentacion\obj\Debug\Presentacion.Forms.Articulos.resources
+S:\VisualStudio\Repositorio\FormulariosBase\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+S:\VisualStudio\Repositorio\FormulariosBase\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+S:\VisualStudio\Repositorio\FormulariosBase\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+S:\VisualStudio\Repositorio\FormulariosBase\Presentacion\obj\Debug\Presentacion.exe
+S:\VisualStudio\Repositorio\FormulariosBase\Presentacion\obj\Debug\Presentacion.pdb
+S:\VisualStudio\Repositorio\FormulariosBase\Presentacion\bin\Debug\Presentacion.exe.config
+S:\VisualStudio\Repositorio\FormulariosBase\Presentacion\bin\Debug\Presentacion.exe
+S:\VisualStudio\Repositorio\FormulariosBase\Presentacion\bin\Debug\Presentacion.pdb
+S:\VisualStudio\Repositorio\FormulariosBase\Presentacion\bin\Debug\Dominio.dll
+S:\VisualStudio\Repositorio\FormulariosBase\Presentacion\bin\Debug\AccesoADatos.dll
+S:\VisualStudio\Repositorio\FormulariosBase\Presentacion\bin\Debug\Dominio.pdb
+S:\VisualStudio\Repositorio\FormulariosBase\Presentacion\bin\Debug\AccesoADatos.pdb
+S:\VisualStudio\Repositorio\FormulariosBase\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+S:\VisualStudio\Repositorio\Chenterprise\Presentacion\bin\Debug\Presentacion.exe.config
+S:\VisualStudio\Repositorio\Chenterprise\Presentacion\bin\Debug\Presentacion.exe
+S:\VisualStudio\Repositorio\Chenterprise\Presentacion\bin\Debug\Presentacion.pdb
+S:\VisualStudio\Repositorio\Chenterprise\Presentacion\bin\Debug\Dominio.dll
+S:\VisualStudio\Repositorio\Chenterprise\Presentacion\bin\Debug\AccesoADatos.dll
+S:\VisualStudio\Repositorio\Chenterprise\Presentacion\bin\Debug\Dominio.pdb
+S:\VisualStudio\Repositorio\Chenterprise\Presentacion\bin\Debug\AccesoADatos.pdb
+S:\VisualStudio\Repositorio\Chenterprise\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+S:\VisualStudio\Repositorio\Chenterprise\Presentacion\obj\Debug\Presentacion.Forms.AddIva.resources
+S:\VisualStudio\Repositorio\Chenterprise\Presentacion\obj\Debug\Presentacion.Forms.AddProveedor.resources
+S:\VisualStudio\Repositorio\Chenterprise\Presentacion\obj\Debug\Presentacion.Forms.Clientes.resources
+S:\VisualStudio\Repositorio\Chenterprise\Presentacion\obj\Debug\Presentacion.Forms.AddArticulo.resources
+S:\VisualStudio\Repositorio\Chenterprise\Presentacion\obj\Debug\Presentacion.Forms.AddGrupo.resources
+S:\VisualStudio\Repositorio\Chenterprise\Presentacion\obj\Debug\Presentacion.Forms.AddMarca.resources
+S:\VisualStudio\Repositorio\Chenterprise\Presentacion\obj\Debug\Presentacion.Forms.FormPrincipal.resources
+S:\VisualStudio\Repositorio\Chenterprise\Presentacion\obj\Debug\Presentacion.Forms.Articulos.resources
+S:\VisualStudio\Repositorio\Chenterprise\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+S:\VisualStudio\Repositorio\Chenterprise\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+S:\VisualStudio\Repositorio\Chenterprise\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+S:\VisualStudio\Repositorio\Chenterprise\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+S:\VisualStudio\Repositorio\Chenterprise\Presentacion\obj\Debug\Presentacion.exe
+S:\VisualStudio\Repositorio\Chenterprise\Presentacion\obj\Debug\Presentacion.pdb
+S:\VisualStudio\Repositorio\Chenterprise\Presentacion\obj\Debug\Presentacion.Forms.Proveedores.resources
+S:\VisualStudio\Repositorio\Chenterprise\Presentacion\obj\Debug\Presentacion.Forms.AddCliente.resources
+S:\VisualStudio\Repositorio\Chenterprise\Presentacion\obj\Debug\Presentacion.Forms.FormLogin.resources
+S:\VisualStudio\Repositorio\Chenterprise\Presentacion\bin\Debug\CapaComun.dll
+S:\VisualStudio\Repositorio\Chenterprise\Presentacion\bin\Debug\CapaComun.pdb
+S:\VisualStudio\Repositorio\Chenterprise\Presentacion\obj\Debug\Presentacion.csproj.ResolveComReference.cache
+C:\Users\Sebax\Documents\Practicas Profesionales\Rep_Chechi\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Sebax\Documents\Practicas Profesionales\Rep_Chechi\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Sebax\Documents\Practicas Profesionales\Rep_Chechi\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Sebax\Documents\Practicas Profesionales\Rep_Chechi\Presentacion\bin\Debug\CapaComun.dll
+C:\Users\Sebax\Documents\Practicas Profesionales\Rep_Chechi\Presentacion\bin\Debug\Dominio.dll
+C:\Users\Sebax\Documents\Practicas Profesionales\Rep_Chechi\Presentacion\bin\Debug\AccesoADatos.dll
+C:\Users\Sebax\Documents\Practicas Profesionales\Rep_Chechi\Presentacion\bin\Debug\CapaComun.pdb
+C:\Users\Sebax\Documents\Practicas Profesionales\Rep_Chechi\Presentacion\bin\Debug\Dominio.pdb
+C:\Users\Sebax\Documents\Practicas Profesionales\Rep_Chechi\Presentacion\bin\Debug\AccesoADatos.pdb
+C:\Users\Sebax\Documents\Practicas Profesionales\Rep_Chechi\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\Sebax\Documents\Practicas Profesionales\Rep_Chechi\Presentacion\obj\Debug\Presentacion.csproj.ResolveComReference.cache
+C:\Users\Sebax\Documents\Practicas Profesionales\Rep_Chechi\Presentacion\obj\Debug\Presentacion.Forms.AddCliente.resources
+C:\Users\Sebax\Documents\Practicas Profesionales\Rep_Chechi\Presentacion\obj\Debug\Presentacion.Forms.AddIva.resources
+C:\Users\Sebax\Documents\Practicas Profesionales\Rep_Chechi\Presentacion\obj\Debug\Presentacion.Forms.AddProveedor.resources
+C:\Users\Sebax\Documents\Practicas Profesionales\Rep_Chechi\Presentacion\obj\Debug\Presentacion.Forms.Clientes.resources
+C:\Users\Sebax\Documents\Practicas Profesionales\Rep_Chechi\Presentacion\obj\Debug\Presentacion.Forms.AddArticulo.resources
+C:\Users\Sebax\Documents\Practicas Profesionales\Rep_Chechi\Presentacion\obj\Debug\Presentacion.Forms.AddGrupo.resources
+C:\Users\Sebax\Documents\Practicas Profesionales\Rep_Chechi\Presentacion\obj\Debug\Presentacion.Forms.AddMarca.resources
+C:\Users\Sebax\Documents\Practicas Profesionales\Rep_Chechi\Presentacion\obj\Debug\Presentacion.Forms.FormLogin.resources
+C:\Users\Sebax\Documents\Practicas Profesionales\Rep_Chechi\Presentacion\obj\Debug\Presentacion.Forms.FormPrincipal.resources
+C:\Users\Sebax\Documents\Practicas Profesionales\Rep_Chechi\Presentacion\obj\Debug\Presentacion.Forms.Articulos.resources
+C:\Users\Sebax\Documents\Practicas Profesionales\Rep_Chechi\Presentacion\obj\Debug\Presentacion.Forms.Proveedores.resources
+C:\Users\Sebax\Documents\Practicas Profesionales\Rep_Chechi\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Sebax\Documents\Practicas Profesionales\Rep_Chechi\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Sebax\Documents\Practicas Profesionales\Rep_Chechi\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Sebax\Documents\Practicas Profesionales\Rep_Chechi\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Sebax\Documents\Practicas Profesionales\Rep_Chechi\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Sebax\Documents\Practicas Profesionales\Rep_Chechi\Presentacion\obj\Debug\Presentacion.pdb
+S:\VisualStudio\Repositorio\Chenterprise\Presentacion\bin\Debug\AccesoADatos.dll.config
+S:\VisualStudio\Repositorio\Chenterprise\Presentacion\obj\Debug\Presentacion.Forms.Facturas.resources
+S:\VisualStudio\Repositorio\Chenterprise\Presentacion\obj\Debug\Presentacion.Forms.Facturacion.resources
+C:\Users\Sebax\Documents\Practicas Profesionales\Rep_Chechi\Presentacion\obj\Debug\Presentacion.Forms.Facturacion.resources
+C:\Users\Sebax\Documents\Practicas Profesionales\Rep_Chechi\Presentacion\obj\Debug\Presentacion.Forms.Facturas.resources
+C:\Users\Sebax\Documents\Practicas Profesionales\Rep_Chechi\Presentacion\bin\Debug\AccesoADatos.dll.config
+C:\Users\Sebax\Documents\Practicas Profesionales\Rep_Chechi\Presentacion\obj\Debug\Presentacion.Forms.ArticulosFacturacion.resources
+S:\VisualStudio\Repositorio\Chenterprise\Presentacion\obj\Debug\Presentacion.Forms.ArticulosFacturacion.resources
+S:\VisualStudio\Repositorio\Chenterprise\Presentacion\obj\Debug\Presentacion.Forms.ClientesFacturacion.resources
+<<<<<<< HEAD
+C:\Users\Sebax\Documents\Practicas Profesionales\Rep_Chechi\Presentacion\obj\Debug\Presentacion.Forms.ClientesFacturacion.resources
+=======
+S:\VisualStudio\Repositorio\Chenterprise\Presentacion\obj\Debug\Presentacion.Forms.ProveedoresCompras.resources
+S:\VisualStudio\Repositorio\Chenterprise\Presentacion\bin\Debug\Dominio.dll.config
+S:\VisualStudio\Repositorio\Chenterprise\Presentacion\obj\Debug\Presentacion.Forms.ComprasReportes.resources
+S:\VisualStudio\Repositorio\Chenterprise\Presentacion\obj\Debug\Presentacion.Forms.Compras.resources
+D:\chine\Proyectos\Repositorio\Chenterprise\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+D:\chine\Proyectos\Repositorio\Chenterprise\Presentacion\obj\Debug\Presentacion.csproj.ResolveComReference.cache
+D:\chine\Proyectos\Repositorio\Chenterprise\Presentacion\obj\Debug\Presentacion.Forms.AddCliente.resources
+D:\chine\Proyectos\Repositorio\Chenterprise\Presentacion\obj\Debug\Presentacion.Forms.AddIva.resources
+D:\chine\Proyectos\Repositorio\Chenterprise\Presentacion\obj\Debug\Presentacion.Forms.AddProveedor.resources
+D:\chine\Proyectos\Repositorio\Chenterprise\Presentacion\obj\Debug\Presentacion.Forms.ArticulosFacturacion.resources
+D:\chine\Proyectos\Repositorio\Chenterprise\Presentacion\obj\Debug\Presentacion.Forms.Clientes.resources
+D:\chine\Proyectos\Repositorio\Chenterprise\Presentacion\obj\Debug\Presentacion.Forms.AddArticulo.resources
+D:\chine\Proyectos\Repositorio\Chenterprise\Presentacion\obj\Debug\Presentacion.Forms.AddGrupo.resources
+D:\chine\Proyectos\Repositorio\Chenterprise\Presentacion\obj\Debug\Presentacion.Forms.AddMarca.resources
+D:\chine\Proyectos\Repositorio\Chenterprise\Presentacion\obj\Debug\Presentacion.Forms.ClientesFacturacion.resources
+D:\chine\Proyectos\Repositorio\Chenterprise\Presentacion\obj\Debug\Presentacion.Forms.ComprasReportes.resources
+D:\chine\Proyectos\Repositorio\Chenterprise\Presentacion\obj\Debug\Presentacion.Forms.Facturacion.resources
+D:\chine\Proyectos\Repositorio\Chenterprise\Presentacion\obj\Debug\Presentacion.Forms.Facturas.resources
+D:\chine\Proyectos\Repositorio\Chenterprise\Presentacion\obj\Debug\Presentacion.Forms.Compras.resources
+D:\chine\Proyectos\Repositorio\Chenterprise\Presentacion\obj\Debug\Presentacion.Forms.FormLogin.resources
+D:\chine\Proyectos\Repositorio\Chenterprise\Presentacion\obj\Debug\Presentacion.Forms.FormPrincipal.resources
+D:\chine\Proyectos\Repositorio\Chenterprise\Presentacion\obj\Debug\Presentacion.Forms.Articulos.resources
+D:\chine\Proyectos\Repositorio\Chenterprise\Presentacion\obj\Debug\Presentacion.Forms.Proveedores.resources
+D:\chine\Proyectos\Repositorio\Chenterprise\Presentacion\obj\Debug\Presentacion.Forms.ProveedoresCompras.resources
+D:\chine\Proyectos\Repositorio\Chenterprise\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+D:\chine\Proyectos\Repositorio\Chenterprise\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+D:\chine\Proyectos\Repositorio\Chenterprise\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+D:\chine\Proyectos\Repositorio\Chenterprise\Presentacion\obj\Debug\Presentacion.exe
+D:\chine\Proyectos\Repositorio\Chenterprise\Presentacion\obj\Debug\Presentacion.pdb
+D:\chine\Proyectos\Repositorio\Chenterprise\Presentacion\bin\Debug\Presentacion.exe.config
+D:\chine\Proyectos\Repositorio\Chenterprise\Presentacion\bin\Debug\Presentacion.exe
+D:\chine\Proyectos\Repositorio\Chenterprise\Presentacion\bin\Debug\Presentacion.pdb
+D:\chine\Proyectos\Repositorio\Chenterprise\Presentacion\bin\Debug\CapaComun.dll
+D:\chine\Proyectos\Repositorio\Chenterprise\Presentacion\bin\Debug\Dominio.dll
+D:\chine\Proyectos\Repositorio\Chenterprise\Presentacion\bin\Debug\AccesoADatos.dll
+D:\chine\Proyectos\Repositorio\Chenterprise\Presentacion\bin\Debug\CapaComun.pdb
+D:\chine\Proyectos\Repositorio\Chenterprise\Presentacion\bin\Debug\Dominio.pdb
+D:\chine\Proyectos\Repositorio\Chenterprise\Presentacion\bin\Debug\Dominio.dll.config
+D:\chine\Proyectos\Repositorio\Chenterprise\Presentacion\bin\Debug\AccesoADatos.pdb
+D:\chine\Proyectos\Repositorio\Chenterprise\Presentacion\bin\Debug\AccesoADatos.dll.config
+D:\chine\Proyectos\Repositorio\Chenterprise\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+>>>>>>> b7834e7190b2b96627e78301534a7b544c1e3718
+C:\Users\sebas\OneDrive\Documentos\Back up - Seba\Rep_Chechi\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\sebas\OneDrive\Documentos\Back up - Seba\Rep_Chechi\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\sebas\OneDrive\Documentos\Back up - Seba\Rep_Chechi\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\sebas\OneDrive\Documentos\Back up - Seba\Rep_Chechi\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\sebas\OneDrive\Documentos\Back up - Seba\Rep_Chechi\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\sebas\OneDrive\Documentos\Back up - Seba\Rep_Chechi\Presentacion\bin\Debug\CapaComun.dll
+C:\Users\sebas\OneDrive\Documentos\Back up - Seba\Rep_Chechi\Presentacion\bin\Debug\Dominio.dll
+C:\Users\sebas\OneDrive\Documentos\Back up - Seba\Rep_Chechi\Presentacion\bin\Debug\AccesoADatos.dll
+C:\Users\sebas\OneDrive\Documentos\Back up - Seba\Rep_Chechi\Presentacion\bin\Debug\CapaComun.pdb
+C:\Users\sebas\OneDrive\Documentos\Back up - Seba\Rep_Chechi\Presentacion\bin\Debug\Dominio.pdb
+C:\Users\sebas\OneDrive\Documentos\Back up - Seba\Rep_Chechi\Presentacion\bin\Debug\Dominio.dll.config
+C:\Users\sebas\OneDrive\Documentos\Back up - Seba\Rep_Chechi\Presentacion\bin\Debug\AccesoADatos.pdb
+C:\Users\sebas\OneDrive\Documentos\Back up - Seba\Rep_Chechi\Presentacion\bin\Debug\AccesoADatos.dll.config
+C:\Users\sebas\OneDrive\Documentos\Back up - Seba\Rep_Chechi\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\sebas\OneDrive\Documentos\Back up - Seba\Rep_Chechi\Presentacion\obj\Debug\Presentacion.csproj.ResolveComReference.cache
+C:\Users\sebas\OneDrive\Documentos\Back up - Seba\Rep_Chechi\Presentacion\obj\Debug\Presentacion.Forms.AddCliente.resources
+C:\Users\sebas\OneDrive\Documentos\Back up - Seba\Rep_Chechi\Presentacion\obj\Debug\Presentacion.Forms.AddIva.resources
+C:\Users\sebas\OneDrive\Documentos\Back up - Seba\Rep_Chechi\Presentacion\obj\Debug\Presentacion.Forms.AddProveedor.resources
+C:\Users\sebas\OneDrive\Documentos\Back up - Seba\Rep_Chechi\Presentacion\obj\Debug\Presentacion.Forms.ArticulosFacturacion.resources
+C:\Users\sebas\OneDrive\Documentos\Back up - Seba\Rep_Chechi\Presentacion\obj\Debug\Presentacion.Forms.Clientes.resources
+C:\Users\sebas\OneDrive\Documentos\Back up - Seba\Rep_Chechi\Presentacion\obj\Debug\Presentacion.Forms.AddArticulo.resources
+C:\Users\sebas\OneDrive\Documentos\Back up - Seba\Rep_Chechi\Presentacion\obj\Debug\Presentacion.Forms.AddGrupo.resources
+C:\Users\sebas\OneDrive\Documentos\Back up - Seba\Rep_Chechi\Presentacion\obj\Debug\Presentacion.Forms.AddMarca.resources
+C:\Users\sebas\OneDrive\Documentos\Back up - Seba\Rep_Chechi\Presentacion\obj\Debug\Presentacion.Forms.ClientesFacturacion.resources
+C:\Users\sebas\OneDrive\Documentos\Back up - Seba\Rep_Chechi\Presentacion\obj\Debug\Presentacion.Forms.ComprasReportes.resources
+C:\Users\sebas\OneDrive\Documentos\Back up - Seba\Rep_Chechi\Presentacion\obj\Debug\Presentacion.Forms.Facturacion.resources
+C:\Users\sebas\OneDrive\Documentos\Back up - Seba\Rep_Chechi\Presentacion\obj\Debug\Presentacion.Forms.Facturas.resources
+C:\Users\sebas\OneDrive\Documentos\Back up - Seba\Rep_Chechi\Presentacion\obj\Debug\Presentacion.Forms.Compras.resources
+C:\Users\sebas\OneDrive\Documentos\Back up - Seba\Rep_Chechi\Presentacion\obj\Debug\Presentacion.Forms.FormLogin.resources
+C:\Users\sebas\OneDrive\Documentos\Back up - Seba\Rep_Chechi\Presentacion\obj\Debug\Presentacion.Forms.FormPrincipal.resources
+C:\Users\sebas\OneDrive\Documentos\Back up - Seba\Rep_Chechi\Presentacion\obj\Debug\Presentacion.Forms.Articulos.resources
+C:\Users\sebas\OneDrive\Documentos\Back up - Seba\Rep_Chechi\Presentacion\obj\Debug\Presentacion.Forms.Proveedores.resources
+C:\Users\sebas\OneDrive\Documentos\Back up - Seba\Rep_Chechi\Presentacion\obj\Debug\Presentacion.Forms.ProveedoresCompras.resources
+C:\Users\sebas\OneDrive\Documentos\Back up - Seba\Rep_Chechi\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\sebas\OneDrive\Documentos\Back up - Seba\Rep_Chechi\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\sebas\OneDrive\Documentos\Back up - Seba\Rep_Chechi\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Documentos\Back up - Seba\Rep_Chechi\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\sebas\OneDrive\Documentos\Practicas Profesionales\Rep_Chechi\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\sebas\OneDrive\Documentos\Practicas Profesionales\Rep_Chechi\Presentacion\obj\Debug\Presentacion.csproj.ResolveComReference.cache
+C:\Users\sebas\OneDrive\Documentos\Practicas Profesionales\Rep_Chechi\Presentacion\obj\Debug\Presentacion.Forms.AddCliente.resources
+C:\Users\sebas\OneDrive\Documentos\Practicas Profesionales\Rep_Chechi\Presentacion\obj\Debug\Presentacion.Forms.AddIva.resources
+C:\Users\sebas\OneDrive\Documentos\Practicas Profesionales\Rep_Chechi\Presentacion\obj\Debug\Presentacion.Forms.AddProveedor.resources
+C:\Users\sebas\OneDrive\Documentos\Practicas Profesionales\Rep_Chechi\Presentacion\obj\Debug\Presentacion.Forms.ArticulosFacturacion.resources
+C:\Users\sebas\OneDrive\Documentos\Practicas Profesionales\Rep_Chechi\Presentacion\obj\Debug\Presentacion.Forms.Clientes.resources
+C:\Users\sebas\OneDrive\Documentos\Practicas Profesionales\Rep_Chechi\Presentacion\obj\Debug\Presentacion.Forms.AddArticulo.resources
+C:\Users\sebas\OneDrive\Documentos\Practicas Profesionales\Rep_Chechi\Presentacion\obj\Debug\Presentacion.Forms.AddGrupo.resources
+C:\Users\sebas\OneDrive\Documentos\Practicas Profesionales\Rep_Chechi\Presentacion\obj\Debug\Presentacion.Forms.AddMarca.resources
+C:\Users\sebas\OneDrive\Documentos\Practicas Profesionales\Rep_Chechi\Presentacion\obj\Debug\Presentacion.Forms.ClientesFacturacion.resources
+C:\Users\sebas\OneDrive\Documentos\Practicas Profesionales\Rep_Chechi\Presentacion\obj\Debug\Presentacion.Forms.ComprasReportes.resources
+C:\Users\sebas\OneDrive\Documentos\Practicas Profesionales\Rep_Chechi\Presentacion\obj\Debug\Presentacion.Forms.Facturacion.resources
+C:\Users\sebas\OneDrive\Documentos\Practicas Profesionales\Rep_Chechi\Presentacion\obj\Debug\Presentacion.Forms.Compras.resources
+C:\Users\sebas\OneDrive\Documentos\Practicas Profesionales\Rep_Chechi\Presentacion\obj\Debug\Presentacion.Forms.FormLogin.resources
+C:\Users\sebas\OneDrive\Documentos\Practicas Profesionales\Rep_Chechi\Presentacion\obj\Debug\Presentacion.Forms.FormPrincipal.resources
+C:\Users\sebas\OneDrive\Documentos\Practicas Profesionales\Rep_Chechi\Presentacion\obj\Debug\Presentacion.Forms.Articulos.resources
+C:\Users\sebas\OneDrive\Documentos\Practicas Profesionales\Rep_Chechi\Presentacion\obj\Debug\Presentacion.Forms.Proveedores.resources
+C:\Users\sebas\OneDrive\Documentos\Practicas Profesionales\Rep_Chechi\Presentacion\obj\Debug\Presentacion.Forms.ProveedoresCompras.resources
+C:\Users\sebas\OneDrive\Documentos\Practicas Profesionales\Rep_Chechi\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\sebas\OneDrive\Documentos\Practicas Profesionales\Rep_Chechi\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\sebas\OneDrive\Documentos\Practicas Profesionales\Rep_Chechi\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Documentos\Practicas Profesionales\Rep_Chechi\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\sebas\OneDrive\Documentos\Practicas Profesionales\Rep_Chechi\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\sebas\OneDrive\Documentos\Practicas Profesionales\Rep_Chechi\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\sebas\OneDrive\Documentos\Practicas Profesionales\Rep_Chechi\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\sebas\OneDrive\Documentos\Practicas Profesionales\Rep_Chechi\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\sebas\OneDrive\Documentos\Practicas Profesionales\Rep_Chechi\Presentacion\bin\Debug\CapaComun.dll
+C:\Users\sebas\OneDrive\Documentos\Practicas Profesionales\Rep_Chechi\Presentacion\bin\Debug\Dominio.dll
+C:\Users\sebas\OneDrive\Documentos\Practicas Profesionales\Rep_Chechi\Presentacion\bin\Debug\AccesoADatos.dll
+C:\Users\sebas\OneDrive\Documentos\Practicas Profesionales\Rep_Chechi\Presentacion\bin\Debug\CapaComun.pdb
+C:\Users\sebas\OneDrive\Documentos\Practicas Profesionales\Rep_Chechi\Presentacion\bin\Debug\Dominio.pdb
+C:\Users\sebas\OneDrive\Documentos\Practicas Profesionales\Rep_Chechi\Presentacion\bin\Debug\Dominio.dll.config
+C:\Users\sebas\OneDrive\Documentos\Practicas Profesionales\Rep_Chechi\Presentacion\bin\Debug\AccesoADatos.pdb
+C:\Users\sebas\OneDrive\Documentos\Practicas Profesionales\Rep_Chechi\Presentacion\bin\Debug\AccesoADatos.dll.config
+C:\Users\sebas\OneDrive\Documentos\Practicas Profesionales\Rep_Chechi\Presentacion\obj\Debug\Presentacion.Forms.Facturas.resources
+C:\Users\sebas\OneDrive\Documentos\Practicas Profesionales\Rep_Chechi\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
